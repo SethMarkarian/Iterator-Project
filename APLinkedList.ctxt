@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=APLinkedList
+comment0.text=\n\ Example\ for\ reference.\ Already\ completed.\n
+comment1.params=
+comment1.target=APLinkedList()
+comment10.params=i\ x
+comment10.target=void\ add(int,\ java.lang.Object)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=void\ switchMode()
+comment3.params=
+comment3.target=java.util.Iterator\ iterator()
+comment4.params=
+comment4.target=void\ testEnhancedFor()
+comment5.params=
+comment5.target=int\ size()
+comment6.params=i
+comment6.target=java.lang.Object\ get(int)
+comment7.params=i\ x
+comment7.target=java.lang.Object\ set(int,\ java.lang.Object)
+comment8.params=i
+comment8.target=java.lang.Object\ remove(int)
+comment9.params=x
+comment9.target=void\ add(java.lang.Object)
+numComments=12

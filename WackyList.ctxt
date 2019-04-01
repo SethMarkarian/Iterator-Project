@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=WackyList
+comment0.text=\n\ Problem\ 2\:\n\ \n\ This\ class\ extends\ (IS-A)\ the\ familiar\ ArrayList.\n\ All\ methods\ from\ the\ AP\ Subset\ work\ as\ usual.\n\ \n\ The\ difference\ is\ that\ this\ can\ iterate\ in\ different\ "modes."\n\ Write\ an\ iterator\ for\ each\ mode.\n
+comment1.params=
+comment1.target=WackyList()
+comment2.params=
+comment2.target=void\ switchMode()
+comment2.text=\n\ Goes\ to\ the\ next\ mode\ in\ the\ list\ of\ modes\ above.\n
+comment3.params=
+comment3.target=java.util.Iterator\ iterator()
+comment3.text=\n\ This\ method\ should\ return\ an\ iterator\ corresponding\ to\ which\ mode\n\ we\ are\ in.\n\ \n\ Modify\ this\ method\ to\ return\ a\ different\ kind\ of\ iterator\n\ depending\ on\ the\ mode.\n
+comment4.params=
+comment4.target=void\ tester()
+comment4.text=\n\ Tester\ code\n
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ExpRange
+comment0.text=\n\ Problem\ 1\:\ Writing\ an\ "exponential\ range"\ class.\n\ \n\ You\ don't\ need\ to\ change\ the\ ExpRange\ class\ itself,\ just\ the\n\ ExpRangeIterator\ class\ below.\n
+comment1.params=start\ factor\ num
+comment1.target=ExpRange(int,\ int,\ int)
+comment2.params=
+comment2.target=java.util.Iterator\ iterator()
+comment3.params=
+comment3.target=void\ tester()
+comment3.text=\n\ Tester\ code\ --\ don't\ change.\n
+numComments=4

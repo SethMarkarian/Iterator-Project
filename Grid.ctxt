@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Grid
+comment0.text=\n\ Problem\ 3\:\n\ \n\ A\ 2D\ array\ that\ you\ can\ iterate\ over\ in\ different\ ways.\n
+comment1.params=a
+comment1.target=Grid(java.lang.Object[][])
+comment2.params=
+comment2.target=void\ switchMode()
+comment2.text=\n\ Cyles\ through\ the\ modes\ in\ the\ \n
+comment3.params=
+comment3.target=java.util.Iterator\ iterator()
+comment4.params=
+comment4.target=void\ tester()
+comment4.text=\n\ Assignment\:\ Write\ Iterator\ classes\ below,\n\ then\ rewrite\ the\ iterator()\ method\ above\n\ so\ that\ it\ returns\ instances\ of\ those,\n\ instead\ of\ null.\n\ \n\ One\ class\ should\ loop\ over\ the\ elements\ of\ the\ grid\n\ in\ row-major\ order;\ the\ other\ should\ loop\ over\ the\n\ elements\ of\ the\ grid\ in\ column-major\ order.\n
+numComments=5
